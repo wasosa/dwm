@@ -5,6 +5,7 @@ VERSION = 6.1
 
 # paths
 PREFIX = /usr/local
+PREFIX = ${HOME}/.builds/dwm-6.1
 MANPREFIX = ${PREFIX}/share/man
 
 X11INC = /usr/X11R6/include
